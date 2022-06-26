@@ -24,7 +24,7 @@ global.APIKeys = {
 //—————「 Setting Owner 」—————//
 global.owner = ['6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399']
 global.premium = ['6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = ['6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281220670449','6283802603905' , '62083195893959' , '62887435047326' , '6281368176386' , '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'SKY•BOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
